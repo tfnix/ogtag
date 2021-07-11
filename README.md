@@ -4,8 +4,10 @@
 
 ![](og.gif)
 
-Referencia:<br>
+Referencias:<br>
 <a href="https://ogp.me/">https://ogp.me/</a>
+
+
 
 
 #### Notas
